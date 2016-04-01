@@ -1,6 +1,6 @@
 #***************************************************************************
 #*   pwgen - 4chtung Admin Password Generator                              *
-#*   Copyright 2007-2009 by Thomas Rusbridger (4chtung)                    *
+#*   Copyright 2016 by Thomas Rusbridger (4chtung)                         *
 #*   4chtung@remcorp.info                                                  *
 #***************************************************************************
 
